@@ -1,6 +1,8 @@
 import IO.EX1;
 import IO.Solution;
 import IO.Solution1;
+import dp.BJ10844;
+import dp.BJ11057;
 import dp.BJ11726;
 import dp.BJ1463;
 import dp.BJ2579;
@@ -31,6 +33,12 @@ public class Main {
 //        solution1.solution(9);
 
         BJ11726 bj11726 = new BJ11726();
-        bj11726.solution();
+//        bj11726.solution();
+
+        BJ10844 bj10844 = new BJ10844();
+//        bj10844.solution();
+
+        BJ11057 bj11057 = new BJ11057();
+        bj11057.solution();
     }
 }
